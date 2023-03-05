@@ -1,10 +1,8 @@
 # Interactive Notebooks
-<<<<<<< HEAD
-*Authors*:
-- Harsh
-=======
-Authors - 
-Chris
 
->>>>>>> 7734ee193a3b4260a9ec9b14f9103589452f77b7
+*Authors*:
+- Shivanand <shivanandvp-official@gmail.com> 
+- Harsh
+- Chris
+
 This is a repository to store interactive notebooks to demo the processes that will go into the backend application
