@@ -1,7 +1,7 @@
 # Interactive Notebooks
 <<<<<<< HEAD
 *Authors*:
-- Harsh
+- Harsh harsh_sundar@tamu.edu (school email)
 =======
 Authors - 
 Chris
